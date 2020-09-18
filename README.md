@@ -1,4 +1,2 @@
-# *computing-work*
-Chen ying ( 14 )
-*_class 1B_*
+Hi, i am chenying from 1B
 
